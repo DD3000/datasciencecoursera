@@ -1,2 +1,2 @@
 # datasciencecoursera
-Coursera Repository
+This is a repository linked to coursera data science course.
